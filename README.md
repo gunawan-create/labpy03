@@ -1,4 +1,4 @@
-# Laporan Pratikum 3
+# Laporan Pratikum 4
 Dalam perulangan bahasa pemrograman merupakan suatu pernyataan untuk
 menginstruksi komputer agar melakukan sesuatu secara berulang.
 Terdapat dua jenis perulangan dalam bahasa pemrograman python, yaitu perulangan
@@ -28,11 +28,7 @@ Dalam setiap iterasi perulangan, program menghasilkan satu bilangan acak antara 
 ![gambar5](screenshot/ss5.png)
 
 ### Step 6 : Pengecekan Bilangan Acak:
--Jika bilangan acak yang dihasilkan lebih kecil dari 0.5, maka:
-
--Counter (count) akan bertambah 1.
-
--Bilangan tersebut akan ditampilkan di layar.
+Jika bilangan acak yang dihasilkan lebih kecil dari 0.5, maka Counter (count) akan bertambah 1 dan Bilangan tersebut akan ditampilkan di layar.
 ![gambar6](screenshot/ss6.png)
 
 ### Step 7 :Menampilkan Pesan
@@ -59,11 +55,8 @@ Masukkan Variabel 'total_laba' dengan ini total laba dapat diperoleh selama 8 bu
 
 ### Step 4 : Menghitung Laba Setiap Bulan
 -Jika bulan sedang belajar laba_persen[bulan] adalah 0, sehingga laba_bulan
-
 -Jika bulan adalah 2 atau 3 (bulan ketiga dan keempat), laba_persen[bulan] adalah 0.01, sehingga laba_bulan alias 100000000 * 0.01 = 1000000.0.
-
 -Jika total_laba adalah variabel yang menyimpan akumulasi laba dari bulan ke bulan.Maka laba_bulan,mendapatkan total laba hingga bulan tersebut.
-
 -Jika laba bulan digunakan untuk bulan ke 1 layar.maka f-string akan muncul format output:
 bulan + 1: Menghitung bulan yang lebih manusiawi (1 hingga 8) dari indeks (0 hingga 7).
 laba_bulan: Menampilkan jumlah laba untuk bulan tersebut.
@@ -93,13 +86,9 @@ Selanjutnya masukkan perintah 'while True' program ini akan terus berjalan dan m
 
 ### Step 4 : Pemrosesan Pilihan
 Kemudian pengguna diminta untuk memasukkan jumlah uang yang ingin ditarik
-
 -Jika jumlah yang diminta lebih besar dari saldo, program akan memberi tahu bahwa saldo tidak cukup.
-
 -Jika jumlah yang diminta kurang dari atau sama dengan 0, program akan memberi tahu bahwa jumlah penarikan tidak valid.
-
 -Jika jumlah valid, saldo akan dikurangi dengan jumlah yang ditarik, dan program akan mencetak pesan bahwa penarikan berhasil.
-
 -Jika input bukan angka (misalnya, huruf), akan muncul pesan kesalahan yang meminta pengguna memasukkan angka.
 ![gambar16](screenshot/ss16.png)
 
